@@ -1,0 +1,9 @@
+<package project="Mer:Trunk:Base" name="xorg-x11-proto-glproto">
+  <title>X.Org X11 Protocol glproto</title>
+  <description>Description: %{summary}
+
+
+
+</description>
+  <url>http://www.x.org</url>
+</package>
