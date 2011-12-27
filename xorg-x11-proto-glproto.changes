@@ -1,3 +1,9 @@
+* Tue Dec 27 2011 Marko Saukko <marko.saukko@cybercom.com> - 1.4.14
+- Update to version 1.4.14
+- Removed upstreamed patches:
+  - 0001-Revert-glxproto-make-GLX-swap-event-struct-match-spe.patch
+  - 0002-glproto-add-a-new-GLXBufferSwapComplete-struct-that-.patch
+
 * Mon Jun 06 2011 Liu, Xinyun <xinyun.liu@intel.com> - 1.4.13
 - Updated to 1.4.13. git-6d7e3981
 
