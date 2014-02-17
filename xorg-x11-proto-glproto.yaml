@@ -1,7 +1,7 @@
 Name: xorg-x11-proto-glproto
 Summary: X.Org X11 Protocol glproto
 Description: glproto is the protocol for the client to send 3D rendering commands to the X server.
-Version: 1.4.16
+Version: 1.4.17
 Release: 1
 Group: Development/System
 License: MIT
